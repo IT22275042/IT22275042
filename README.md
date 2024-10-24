@@ -1,6 +1,6 @@
 👋 Hi, I’m Vikneswaran Sathushan  
 👀 I’m interested in Python  
-🌱 I’m currently learning Java  
+🌱 I’m currently learning Java,Kotlin,Mern
 💞️ I’m looking to collaborate on AI Projects  
 📫 How to reach me: 
 😄 Pronouns: him  
